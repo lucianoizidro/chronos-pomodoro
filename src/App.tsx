@@ -6,8 +6,8 @@ import {Fragment} from "react/jsx-runtime";
 export function App(){
     return (
         <Fragment>
-            <h1>Desenvolvimento Web com React!</h1>
-            <p>Criando meu primeiro componente em React.</p>
+            <h1>React Web Developer</h1>
+            <p>Desenvolvendo meu primeiro componente em React.</p>
         </Fragment>
     );
 }
